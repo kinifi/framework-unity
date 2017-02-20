@@ -1,11 +1,6 @@
 /*
  *  Game Manager
- *  This is how we will save our persistent data such as: 
- *  Logged in save data from a json file and assigning variables which we access in game
- *  With this Singleton we can store data we need for later use
- *  Example on how to use: GameManager.Instance.[Variable Name / Method Name]
- *  Methods and Variables must be public
- *  Note: A new singleton should be created per platform for achievements string literals and specific achievement methods 
+ *  Use variables and methods between scenes here
  *
  */
 
