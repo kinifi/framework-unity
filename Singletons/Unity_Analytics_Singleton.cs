@@ -17,20 +17,6 @@ public class GameManager
 
 
 	//Class Level Members End
-
-
-	//Method Start
-
-    /// <summary>
-    /// load all of the data on setup
-    /// This should be called on the title screen
-    /// </summary>
-    public void Setup()
-    {
-
-
-
-    }
     
     #region Unity Analytics
 
